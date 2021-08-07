@@ -11,6 +11,6 @@ Recipes is a program created on the Flutter framework based on the Dart programm
 ## Screenshots
 <hr>
 
-![[Screenshot_20210807-192454.jpg|360]]
-![[Screenshot_20210807-192504.jpg|360]]
-![[Screenshot_20210807-192511.jpg|360]]
+<img src="screenshots/Screenshot_20210807-192454.jpg" width="360px"/>
+<img src="screenshots/Screenshot_20210807-192504.jpg" width="360px"/>
+<img src="screenshots/Screenshot_20210807-192511.jpg" width="360px"/>
