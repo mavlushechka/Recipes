@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:recipes/models/recipe.dart';
 
 class HomePage extends StatelessWidget {
-
   final List<Recipe> _allRecipes = Recipe.allRecipes();
 
   HomePage() {}
