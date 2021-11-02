@@ -1,10 +1,15 @@
 class Recipe {
 
   final String name;
+
   final String image;
+
   final String desc;
+
   final String description;
+
   final String ingredients;
+
   final String tutorial;
 
   Recipe({this.name,this.desc,this.description,this.image,this.ingredients,this.tutorial});
