@@ -12,8 +12,6 @@ class Recipe {
 
   final String tutorial;
 
-  Recipe({this.name,this.desc,this.description,this.image,this.ingredients,this.tutorial});
-
   static List<Recipe> allRecipes()
   {
     var listOfRecipes = new List<Recipe>();
@@ -69,4 +67,6 @@ class Recipe {
 
     return listOfRecipes;
   }
+
+  Recipe({this.name, this.desc, this.description, this.image, this.ingredients, this.tutorial});
 }
