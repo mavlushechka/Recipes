@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mavlondev.recepts">
+    package="com.mavlusehcka.recipes">
    <application
-        android:label="recepts"
+        android:label="Recipes"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name="com.mavlondev.recipes.MainActivity"
+            android:name="com.mavlusehcka.recipes.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

@@ -1,4 +1,4 @@
-package com.mavlondev.recipes;
+package com.mavlusehcka.recipes;
 
 import io.flutter.embedding.android.FlutterActivity;
 
